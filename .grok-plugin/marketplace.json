@@ -486,6 +486,30 @@
         "email": "support@videogen.io",
         "url": "https://github.com/video-gen"
       }
+    },
+    {
+      "name": "mainmind",
+      "description": "Mainmind keeps a person's work knowledge (processes, records, decisions and lessons for a company, a job hunt or anything else) in one space their AI apps share. Grok reads the space's own rules instead of guessing, saves what it learned, and picks up where another app stopped. Remote MCP server at mainmind.app; you sign in as yourself, and the plugin ships no keys.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/codeyogi911/mainmind-plugins.git",
+        "sha": "3b784cbb759cffc3a7ee1402b26044ee946b8d65",
+        "path": "plugins/mainmind-grok"
+      },
+      "homepage": "https://mainmind.app",
+      "keywords": [
+        "mainmind",
+        "mainmind space",
+        "mainmind agent"
+      ],
+      "domains": [
+        "mainmind.app"
+      ],
+      "author": {
+        "name": "Shashwat Jain",
+        "url": "https://mainmind.app"
+      }
     }
   ]
 }
