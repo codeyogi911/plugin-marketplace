@@ -489,7 +489,7 @@
     },
     {
       "name": "mainmind",
-      "description": "Mainmind keeps a person's work knowledge (processes, records, decisions and lessons for a company, a job hunt or anything else) in one space their AI apps share. Grok reads the space's own rules instead of guessing, saves what it learned, and picks up where another app stopped. Remote MCP server at mainmind.app; you sign in as yourself, and the plugin ships no keys.",
+      "description": "Mainmind makes working across AI harnesses and projects simple. It keeps your knowledge, tools and credentials in one place, where they compound with every task, and your agents can message each other across harnesses. You sign in as yourself at mainmind.app; the plugin ships no keys.",
       "category": "productivity",
       "source": {
         "source": "url",
